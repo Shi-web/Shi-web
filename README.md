@@ -17,4 +17,14 @@ I'm especially interested in using technology to empower people and simplify eve
 
 ---
 
+## 📊 GitHub Activity & Community Involvement
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shi-web&theme=default" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=shi-web&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shi-web&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
 Thanks for stopping by — let’s build something great together! 🚀
