@@ -14,25 +14,24 @@ I'm a junior studying Computer Science at the University of Texas at Arlington (
 ---
 
 📫 **Reach me at**  
-📧 khushi.gauli@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/khushi-gauli/)  
+📧 khushigauli@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/khushigauli/)  
 💼 [Portfolio](https://shi-web.github.io/Portfolio/)  
-📝 [Resume](https://your-resume-link.com) <!-- optional -->
 
 ---
 
 ## 📌 Pinned Projects
 
 <a href="https://github.com/yourusername/fall-ai-studio-zodiac-predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=fall-ai-studio-zodiac-predictor&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shi-web&repo=bugHouse&theme=default" />
 </a>
 
 <a href="https://github.com/yourusername/airbnb-logistic-regression">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=airbnb-logistic-regression&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shi-web&repo=ModelSelectionForLogisticRegression&theme=default" />
 </a>
 
 <a href="https://github.com/yourusername/cse-tutoring-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cse-tutoring-app&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shi-web&repo=Simple-Unix-Shell&theme=default" />
 </a>
 
 ---
