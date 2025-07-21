@@ -1,54 +1,21 @@
-# 👋 Hi there, I'm Khushi Gauli
+# 👋 Hello, I'm Khushi Gauli
 
-![Khushi Gauli's banner](https://your-banner-image-url.com) <!-- optional -->
+![Profile Picture](https://your-image-link.com) <!-- Replace this with the actual image URL -->
 
-### 🚀 Aspiring Software Engineer | AI/ML & Data Science Enthusiast | Lifelong Learner
+### 🎓 Computer Science @ University of Texas at Arlington | 👩‍💻 Aspiring Software & AI Engineer, Cybersecurity Enthusiast | 🌟 Lifelong Learner
 
-I'm a junior studying Computer Science at the University of Texas at Arlington (Class of 2026), passionate about building meaningful software and data-driven solutions that make life simpler, smarter, and more human. Whether it's creating mobile apps with Firebase and Kotlin or training models for predictive insights, I love turning ideas into impactful code. 
+I'm a senior majoring in Computer Science with a strong foundation in software engineering principles and a growing passion for AI/ML and data-driven problem solving. I enjoy building applications that are both functional and meaningful — from astrology-based social apps to student success platforms.
 
-🔭 **Currently working on**: A tutoring web application for CSE Student Success Center  
-🌱 **Learning**: PyTorch, SQL optimization, AWS, and ethical AI principles  
-🤝 **Looking to collaborate on**: Open-source AI/ML, student-centered edtech tools, and social-good software  
-📚 **Interests**: Software development, cybersecurity, data visualization, and astrology-based social tech!
+I'm especially interested in using technology to empower people and simplify everyday tasks. I bring a collaborative mindset from my work as a Learning Specialist, and I'm always exploring new tools and frameworks to sharpen my skills.
 
 ---
 
-📫 **Reach me at**  
-📧 khushigauli@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/khushigauli/)  
-💼 [Portfolio](https://shi-web.github.io/Portfolio/)  
+📫 **Let's Connect**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khushigauli/)
+- 📧 khushigauli@gmail.com
+- 🌐 [Portfolio](https://shi-web.github.io/Portfolio/)
 
 ---
 
-## 📌 Pinned Projects
-
-<a href="https://github.com/yourusername/fall-ai-studio-zodiac-predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shi-web&repo=bugHouse&theme=default" />
-</a>
-
-<a href="https://github.com/yourusername/airbnb-logistic-regression">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shi-web&repo=ModelSelectionForLogisticRegression&theme=default" />
-</a>
-
-<a href="https://github.com/yourusername/cse-tutoring-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shi-web&repo=Simple-Unix-Shell&theme=default" />
-</a>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" />
-</p>
-
----
-
-## ✨ Fun Fact
-
-I’m the type to debug past midnight *and* read about MBTIs just for fun. 🌌 Let’s build something meaningful together!
-
----
-
+Thanks for stopping by — let’s build something great together! 🚀
