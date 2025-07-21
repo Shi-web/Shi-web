@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Khushi Gauli
 
-![Profile Picture](https://your-image-link.com) <!-- Replace this with the actual image URL -->
+![Profile Picture](./picture.png) <!-- Replace this with the actual image URL -->
 
 ### 🎓 Computer Science @ University of Texas at Arlington | 👩‍💻 Aspiring Software & AI Engineer, Cybersecurity Enthusiast | 🌟 Lifelong Learner
 
